@@ -21,11 +21,11 @@ package-name/
 
 AsmX:
 ```
-@package packageMame.util
-@package packageMame.color
+@package packageName.util
+@package packageName.color
 
-@package packageMame.types.*
+@package packageName.types.*
 # or
-@package packageMame.types.string
-@package packageMame.types.int
+@package packageName.types.string
+@package packageName.types.int
 ```
